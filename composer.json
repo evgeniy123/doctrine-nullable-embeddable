@@ -8,10 +8,6 @@
         "exclude-from-classmap": [ "/Tests/" ]
     },
 
-    "autoload-dev": {
-        "psr-4": { "Tarifhaus\\Tests\\Doctrine\\ORM\\": "Tests" }
-    },
-
     "minimum-stability": "stable",
     "require": {
         "php": "^7.0",
